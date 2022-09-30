@@ -12,7 +12,7 @@ project from Android Studio following the steps
 ## Screenshots
 
 <img src="screenshots/jetnews_demo.gif"
-width="150" height="400" alt="Screenshot">
+width="200" height="400" alt="Screenshot">
 <img src="screenshots/jetnews_favorites_tablet.png" alt="Screenshot" 
 width="500" height="400">
 
