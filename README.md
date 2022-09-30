@@ -12,9 +12,9 @@ project from Android Studio following the steps
 ## Screenshots
 
 <img src="screenshots/jetnews_demo.gif"
-width="300" height="200" alt="Screenshot">
+width="500" height="100" alt="Screenshot">
 <img src="screenshots/jetnews_favorites_tablet.png" alt="Screenshot" 
-width="300" height="200">
+width="500" height="400">
 
 ## Features
 
